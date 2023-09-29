@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Prímszám kereső Eratosztenész szitája alapján
 # a kód alapja chatGPT-től származik
 # chatGPT link: https://chat.openai.com/share/178e526e-d0bd-48b9-8e1a-8f47e035ed32
