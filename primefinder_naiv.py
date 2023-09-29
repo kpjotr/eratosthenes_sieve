@@ -1,3 +1,5 @@
+#!/user/bin/env python3
+
 # eddig ez a leggyorsabb limitless teszt
 
 import time
