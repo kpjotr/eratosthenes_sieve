@@ -1,9 +1,13 @@
 #!/user/bin/env python3
 
+# Prime number search based on the Sieve of Eratosthenes
+# the code base is from chatGPT
+# chatGPT link: https://chat.openai.com/share/178e526e-d0bd-48b9-8e1a-8f47e035ed32
+# This version MUST BE CHECKED!
+
 # Prímszám kereső Eratosztenész szitája alapján
 # a kód alapja chatGPT-től származik
 # chatGPT link: https://chat.openai.com/share/178e526e-d0bd-48b9-8e1a-8f47e035ed32
-
 # ELLENŐRIZNI KELL ennek a változatnak a működését!
 
 def eratosthenes_sieve(n):
